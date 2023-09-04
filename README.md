@@ -2,7 +2,7 @@
 A 2D Sidescroller Game Demo, made with Unity. Includes custom 3d model/animation. 
 
 ## Engineer Demo Link: 
-[![Engineer Demo](URL_OF_THE_THUMBNAIL_IMAGE)](https://www.youtube.com/watch?v=N1er1x2PS4k)
+[![Engineer Demo]([URL_OF_THE_THUMBNAIL_IMAGE](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc4%2FUnity_2021.svg%2F1200px-Unity_2021.svg.png&tbnid=VEMOJhqL8VCwvM&vet=12ahUKEwjAlp2OjJKBAxUcP94AHadcAIwQMygAegQIARB1..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUnity_(game_engine)&docid=zLvecnLGuPTZ-M&w=1200&h=442&q=unity&ved=2ahUKEwjAlp2OjJKBAxUcP94AHadcAIwQMygAegQIARB1))](https://www.youtube.com/watch?v=N1er1x2PS4k)
 
 ## Project Overview:
 - A 2d platformer/side-scroller created in Unity
