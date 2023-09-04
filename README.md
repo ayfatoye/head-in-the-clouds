@@ -2,7 +2,7 @@
 A 2D Sidescroller Game Demo, made with Unity. Includes custom 3d model/animation. 
 
 ## Engineer Demo Link: 
-[![Engineer Demo](https://drive.google.com/file/d/1v0rLjzsw6npzKrXVFPMPx43bsRPR34XL/view?usp=sharing)](https://www.youtube.com/watch?v=N1er1x2PS4k)
+[![Engineer Demo](https://github.com/ayfatoye/head-in-the-clouds/blob/main/thumbnail.png)](https://www.youtube.com/watch?v=N1er1x2PS4k)
 
 ## Project Overview:
 - A 2d platformer/side-scroller created in Unity
